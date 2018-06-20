@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitrixSendKeys", "CitrixSendKeys\CitrixSendKeys.csproj", "{934E3F77-AA12-441C-A076-DD3FE29DEEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934E3F77-AA12-441C-A076-DD3FE29DEEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934E3F77-AA12-441C-A076-DD3FE29DEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934E3F77-AA12-441C-A076-DD3FE29DEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934E3F77-AA12-441C-A076-DD3FE29DEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
